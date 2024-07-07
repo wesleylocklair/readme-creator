@@ -17,3 +17,5 @@ wesley.j.locklair@gmail.com
 
 ## Video Demonstration
 ![Untitled_ Jul 7, 2024 3_15 PM (1)](https://github.com/wesleylocklair/readme-creator/assets/171185367/2b4605ca-3e87-4c76-958b-13d7a7718723)
+
+[README Video Demo.webm](https://github.com/wesleylocklair/readme-creator/assets/171185367/550c877b-07f3-4da0-bd8f-ed088e90f063)
